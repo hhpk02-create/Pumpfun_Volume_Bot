@@ -1,0 +1,14 @@
+/node_modules/
+.env
+
+.env.*
+
+wallets.json
+
+wallets_backup.txt
+
+*.key
+
+*.pem
+
+keypair*.json
